@@ -1,6 +1,5 @@
-# 2DV50E
-## Degree project @ Linnéuniversitetet 2018
-## Mikael Melander
+# 2DV50E - Degree project @ Linnéuniversitetet 2018
+#### By Mikael Melander
 
 * [Project description](ProjectDescription.pdf)
 
