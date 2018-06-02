@@ -11,4 +11,4 @@
 
 * [Report](report.pdf)
 
-* [Opponering](opponering.pdf)
+* [Opponering](Opponering.pdf)
